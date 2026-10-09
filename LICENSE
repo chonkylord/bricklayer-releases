@@ -1,0 +1,189 @@
+BRICKLAYER PROPRIETARY SOFTWARE LICENSE AND END-USER LICENSE AGREEMENT
+Version 1.0 - October 8, 2026
+
+Copyright (c) 2026 Advait Shewale. All rights reserved.
+
+1. PARTIES AND SCOPE
+
+This agreement is between Advait Shewale (the "Licensor") and the person or
+organization using the Software ("you"). "Software" means the original
+Bricklayer software and materials that the Licensor owns or has authority to
+license under this agreement, including the Bricklayer Editor, extensions,
+companion software, Studio plugin, and associated documentation and assets
+supplied with this agreement. Third-party components are covered by Section 6.
+
+"Official Releases" means copies distributed by the Licensor through
+https://github.com/chonkylord/bricklayer-releases or another distribution
+channel expressly designated by the Licensor. "Source Code" includes source
+files, human-readable implementation code, and code extracted, reconstructed,
+or derived from the Software, including packaged JavaScript, TypeScript, and
+Luau implementation code.
+
+This is a proprietary license, not an open-source license. The Software is
+licensed, not sold. By accepting this agreement through an installation or
+other acceptance process, or installing or using the Software after this
+agreement has been presented to you, you agree to its terms. If you do not
+agree, do not install or use the Software. A person accepting for an
+organization must have authority to bind that organization.
+
+2. LIMITED END-USER LICENSE
+
+Subject to this agreement and any applicable entitlement or subscription
+terms disclosed when you obtain the Software, the Licensor grants you a
+limited, non-exclusive, non-transferable, non-sublicensable license to download,
+install, and run Official Releases on devices you own or control, solely as
+an end user for personal, educational, or internal business purposes. Your
+organization's authorized personnel may use its authorized copies for those
+purposes, subject to this agreement and applicable seat limits.
+
+You may make copies reasonably necessary for authorized installation and
+backup, retaining all copyright, license, and attribution notices. Execution
+and incidental loading of packaged implementation code necessary for normal
+operation are permitted. No right to inspect, develop, compile, modify, or
+redistribute the Software or its Source Code is granted.
+
+You may use documented configuration, extension, and integration features as
+intended. This does not authorize changing the Software's implementation or
+bypassing its access controls.
+
+3. YOUR PROJECTS AND OUTPUT
+
+This agreement does not claim ownership of your projects, scripts, games,
+content, or other output, or prevent you from editing, publishing, distributing,
+or selling your own work created using the Software. Other applicable rights
+and third-party terms remain your responsibility.
+
+To the extent the Licensor owns them, project templates, example snippets,
+and runtime stubs expressly supplied for incorporation into your projects may
+be copied, modified, and distributed as part of those projects. This narrow
+permission does not extend to the editor, extension, companion, or plugin
+implementation, or to implementation code extracted from the Software.
+
+4. RESTRICTIONS
+
+Except as expressly permitted in this agreement, in a separate written
+authorization from the Licensor, under Section 6, or by applicable law that
+does not permit these restrictions, you must not, directly or through others:
+
+(a) Access, inspect, extract, disclose, publish, or otherwise obtain or study
+    the Software's Source Code; decompile, disassemble, reverse engineer, or
+    attempt to reconstruct its implementation or underlying Source Code.
+    This does not restrict ordinary use of documented features, inspection
+    of your own projects or diagnostic output, or reading public user
+    documentation.
+
+(b) Modify, patch, adapt, translate, merge, compile, create derivative works
+    of, or incorporate into another product any part of the Software or its
+    Source Code, including creating modified or unofficial builds.
+
+(c) Redistribute, publish, upload, share, mirror, sublicense, sell, resell,
+    rent, lease, lend, or otherwise supply the Software, its Source Code, or
+    modified copies to another person. You may share links to Official
+    Releases without distributing copies yourself.
+
+(d) Repackage, rebrand, white-label, or market the Software as your own or
+    another party's product; bundle it for distribution; or offer access to
+    the Software itself as a hosted, service-bureau, or commercial service
+    without prior written authorization. This does not prohibit selling
+    your own work as permitted by Section 3.
+
+(e) Bypass, disable, remove, or interfere with authentication, entitlement,
+    licensing, payment, integrity, or other technical protection measures;
+    use unauthorized credentials; or create, distribute, or facilitate
+    cracks, unauthorized patches, license keys, or circumvention tools.
+
+(f) Remove or obscure proprietary notices or misrepresent the origin,
+    ownership, authorization, or endorsement of the Software. Use the
+    Software to unlawfully access systems or data, distribute malware, or
+    interfere with other users or services.
+
+5. SOURCE ACCESS, OWNERSHIP, AND BRANDING
+
+All rights not expressly granted are reserved. Availability of Source Code,
+whether intentional or accidental, does not grant permission to use, copy,
+modify, build, or distribute it. Access to a private repository is not a
+separate development license. If Source Code is hosted publicly on a platform
+whose terms grant viewing or forking rights, those platform rights remain
+applicable; this agreement does not override them.
+
+The Licensor and relevant rights holders retain their intellectual property
+rights in the Software. No license to Bricklayer names, logos, or other marks
+is granted, except reasonable factual identification that does not imply
+sponsorship, endorsement, or an authorized reseller relationship. Lawful
+reviews and references to the Software are permitted.
+
+6. THIRD-PARTY COMPONENTS, PRIOR LICENSES, AND MANDATORY RIGHTS
+
+The Software may include or interact with third-party software and assets,
+including Microsoft Visual Studio Code / Code - OSS, Electron, luau-lsp,
+StyLua, Selene, Rojo, the Model Context Protocol SDK, and other dependencies.
+Those components remain governed by their respective licenses, copyright
+notices, and attribution requirements. This agreement applies only to the
+Licensor's original work and rights the Licensor is entitled to license.
+
+Nothing here limits rights granted under third-party licenses, including
+rights to inspect, modify, redistribute, or obtain source for those components.
+If terms conflict for a third-party component, its own license controls for
+that component. Required notices and source obligations must be preserved.
+
+This agreement does not revoke rights validly granted for copies previously
+provided under another license, including the MIT License. New terms apply
+to work and releases distributed with this agreement, to the extent the
+Licensor has the right to impose them.
+
+Nothing here excludes or restricts rights or remedies that cannot lawfully
+be excluded or restricted, including applicable consumer rights and mandatory
+exceptions concerning interoperability, observation, study, testing, security
+research, backup, or reverse engineering. Such exceptions apply only to the
+extent and under the conditions required by law.
+
+7. UPDATES AND SEPARATE SERVICES
+
+Updates supplied under this agreement are covered by it unless accompanied
+by separate terms. This agreement does not guarantee future updates,
+support, availability, or access to third-party services. Separately
+disclosed service, account, privacy, or subscription terms may apply to
+those services. Later terms do not retroactively amend earlier grants merely
+because a license file on a website or in a repository changes.
+
+8. TERMINATION
+
+Your license terminates if you materially breach this agreement, subject to
+any notice or opportunity to cure required by law. On termination, stop using
+the Software and delete your copies, except copies that law requires or
+permits you to retain. Termination does not require deletion of your projects
+or output. Provisions concerning ownership, restrictions, third-party and
+mandatory rights, disclaimers, and liability survive as applicable.
+
+9. WARRANTY DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+"AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS, IMPLIED, OR
+STATUTORY, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NONINFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE
+WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE, OR THAT OUTPUT WILL BE ACCURATE
+OR SUITABLE FOR YOUR PURPOSE. YOU ARE RESPONSIBLE FOR REVIEWING OUTPUT AND
+MAINTAINING BACKUPS. MANDATORY LEGAL WARRANTIES ARE UNAFFECTED.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE FOR
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES,
+OR LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS, ARISING FROM THIS AGREEMENT OR
+THE SOFTWARE, EVEN IF ADVISED OF THEIR POSSIBILITY. THE LICENSOR'S TOTAL
+AGGREGATE LIABILITY WILL NOT EXCEED THE AMOUNT YOU PAID THE LICENSOR FOR THE
+SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM AROSE. THESE LIMITATIONS DO NOT
+APPLY TO LIABILITY THAT CANNOT LAWFULLY BE LIMITED OR EXCLUDED, INCLUDING
+APPLICABLE LIABILITY FOR FRAUD, WILLFUL MISCONDUCT, OR DEATH OR PERSONAL INJURY.
+
+11. GENERAL TERMS AND CONTACT
+
+If a provision is unenforceable, it will apply to the maximum lawful extent,
+and the remaining provisions remain effective. Failure to enforce a provision
+is not a waiver. This agreement states the license terms for the Software,
+subject to the separate terms and rights expressly preserved above. Additional
+permissions must be granted by the Licensor in writing.
+
+For licensing inquiries, contact Advait Shewale through
+https://github.com/chonkylord. Reporting an issue or requesting permission
+does not itself grant permission.
